@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 
-### LegendaryMagma
+### Flightcraft007
 
-Welcome to this LegendaryMagma website. This website provides information about Greek Mythology, music and puppies.
+Welcome to this Flightcraft007 website. This website provides information about Greek Mythology, music and puppies.
 
 
