@@ -9,4 +9,6 @@ permalink: /about/
 
 Welcome to this Flightcraft007 website. This website provides information about Greek Mythology, music and puppies.
 
+[Snake App](snake.html)
+
 
